@@ -1,7 +1,7 @@
 {
     "redirects": [
     { 
-        "source": "/hello-vercel",
+        "source": "/vercel",
         "destination": "https://vercel.com/", 
         "permanent": true
     }

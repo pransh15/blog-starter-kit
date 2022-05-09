@@ -6,101 +6,10 @@ tag: career
 author: You
 ---
 
-# Markdown Examples
+This is my take home assignment for a position at **Vercel** and I've chosen the Blog Starter Kit to ensure accessibility and make the content readable. This also helps me to write the content on MDX, so it's an easier solution for everyone involved. :D
 
-## h2 Heading
+Thank you for your interest in Vercel! We would appreciate approximately one hour of your time to complete a short familiarisation exercise. Before you start, you'll need a GitHub (recommended), GitLab or Bitbucket account. 
 
-### h3 Heading
-
-#### h4 Heading
-
-##### h5 Heading
-
-###### h6 Heading
-
-## Emphasis
-
-**This is bold text**
-
-_This is italic text_
-
-~~Strikethrough~~
-
-## Blockquotes
-
-> Develop. Preview. Ship. – Vercel
-
-## Lists
-
-Unordered
-
-- Lorem ipsum dolor sit amet
-- Consectetur adipiscing elit
-- Integer molestie lorem at massa
-
-Ordered
-
-1. Lorem ipsum dolor sit amet
-2. Consectetur adipiscing elit
-3. Integer molestie lorem at massa
-
-## Code
-
-Inline `code`
-
-```
-export default function Nextra({ Component, pageProps }) {
-  return (
-    <>
-      <Head>
-        <link
-          rel="alternate"
-          type="application/rss+xml"
-          title="RSS"
-          href="/feed.xml"
-        />
-        <link
-          rel="preload"
-          href="/fonts/Inter-roman.latin.var.woff2"
-          as="font"
-          type="font/woff2"
-          crossOrigin="anonymous"
-        />
-      </Head>
-      <Component {...pageProps} />
-    </>
-  )
-}
-```
-
-## Tables
-
-| **Option** | **Description**                                                                                                             |
-| ---------- | --------------------------------------------------------------------------------------------------------------------------- |
-| First      | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. |
-| Second     | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. |
-| Third      | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. |
-
-## Links
-
-- [Next.js](https://nextjs.org)
-- [Nextra](https://nextra.vercel.app/)
-- [Vercel](http://vercel.com)
-
-### Footnotes
-
-- Footnote [^1].
-- Footnote [^2].
-
-[^1]: Footnote **can have markup**
-
-    and multiple paragraphs.
-
-[^2]: Footnote text.
-
-
-Thank you for your interest in Vercel! We would appreciate approximately one hour of your time to complete a short familiarisation exercise. 
-Before you start, you'll need a GitHub (recommended), GitLab or Bitbucket account. 
 ~~1. If you haven't already, create a Hobby tier (free) account on Vercel. You can sign up to Vercel by using your GitHub, GitLab or BitBucket account.~~
 > Done ✅
 
@@ -109,6 +18,7 @@ Before you start, you'll need a GitHub (recommended), GitLab or Bitbucket accoun
 
 3. Complete the following tasks. Add the responses directly to your Vercel project – please do not create a separate document.
 Create pages or sections on your project for each question. If you're unable to complete any task, don't worry! Go ahead and explain what information or knowledge may be missing
+
   1. Which technical article, guide or lightning talk left the biggest positive impression on you? Why? Ideally, this article would not be associated with Vercel or web development, by the way! Please provide links.
   > It's not a lightning talk, but this is one of my favorite talks. Dylan covers a lot of what I learned back in middle school with tools like LOGO, which adds a nostalgic attachment. Since this covers everything I love about code, it's not just logical; it's artistic at the same time.
   > <iframe width="560" height="315" src="https://www.youtube.com/embed/6avJHaC3C2U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
