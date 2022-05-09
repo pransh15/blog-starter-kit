@@ -6,7 +6,7 @@ tag: career
 author: You
 ---
 
-This is my take home assignment for a position at **Vercel** and I've chosen the Blog Starter Kit to ensure accessibility and make the content readable. This also helps me to write the content on MDX, so it's an easier solution for everyone involved. :D
+This is my take home assignment for a position at **Vercel** and I've chosen the Blog Starter Kit to ensure accessibility and make the content readable. This also helps me to write the content on MDX, so it's an easier solution for everyone involved. 😄
 
 Thank you for your interest in Vercel! We would appreciate approximately one hour of your time to complete a short familiarisation exercise. Before you start, you'll need a GitHub (recommended), GitLab or Bitbucket account. 
 
