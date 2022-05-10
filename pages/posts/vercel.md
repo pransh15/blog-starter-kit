@@ -10,9 +10,7 @@ This is my take home assignment for a position at **Vercel** and I've chosen the
 
 Thank you for your interest in Vercel! We would appreciate approximately one hour of your time to complete a short familiarisation exercise. Before you start, you'll need a GitHub (recommended), GitLab or Bitbucket account. 
 
-~~**1. If you haven't already, create a Hobby tier (free) account on Vercel. You can sign up to Vercel by using your GitHub, GitLab or BitBucket account.**~~
-
-Done ✅
+<Callout emoji="✅">~~**1. If you haven't already, create a Hobby tier (free) account on Vercel. You can sign up to Vercel by using your GitHub, GitLab or BitBucket account.**~~</Callout>
 
 ~~**2. Create a project on Vercel. You can use our get started guide, documentation and templates for help and inspiration.**~~
 

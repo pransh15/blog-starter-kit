@@ -1,4 +1,5 @@
 import 'nextra-theme-blog/style.css'
+import Callout from 'nextra-theme-docs/callout'
 import Head from 'next/head'
 
 import '../styles/main.css'
