@@ -22,7 +22,7 @@ Thank you for your interest in Vercel! We would appreciate approximately one hou
 
 _Create pages or sections on your project for each question. If you're unable to complete any task, don't worry! Go ahead and explain what information or knowledge may be missing_
 
-You can also jump to [Question 1](/posts/question-1) 👇
+You can also jump directly to [Question 1](/posts/question-1) 🙌
 
 ---
 
