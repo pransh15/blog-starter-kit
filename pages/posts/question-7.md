@@ -1,7 +1,7 @@
 ---
 title: Question 7
 date: 2022/05/09
-description: Would, or how would, you improve the response shared with a customer here?
+description: Would, or how would, you improve the response shared with a customer here?    
 tag: career
 author: You
 ---
