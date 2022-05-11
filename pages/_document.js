@@ -4,7 +4,7 @@ export default function Document() {
   const meta = {
     title: 'Pranshu Khanna',
     description: 'Website metas are so meta.',
-    image: 'https://pran.sh/public/images/pransh-og-min.png'
+    image: 'https://github.com/pransh15/blog-starter-kit/blob/main/public/images/pransh-og-image-min.png'
   }
 
   return (
