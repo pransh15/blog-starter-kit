@@ -1,5 +1,5 @@
 ---
-title: Question 9
+title: Question 9 & 10
 date: 2022/05/09
 description: If you could make one change to our flagship community, what would it be and why?
 tag: career
@@ -16,3 +16,9 @@ Label Issues on GitHub, to help with triaging and better discover for the commun
     - Learning Resources
     - Community and Sponsored Events
     - Frontend Meetups we can feature
+
+---
+
+**How could we improve or alter this familiarisation exercise?**
+
+    I think this is perfect, and covers all the bases for the requirements Vercel has for the role.
