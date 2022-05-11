@@ -4,7 +4,7 @@ export default function Document() {
   const meta = {
     title: 'Pranshu Khanna',
     description: 'Community Management & Developer Relations Professional.',
-    image: 'https://assets.vercel.com/image/upload/q_auto/front/vercel/dps.png'
+    image: '/images/pransh-og-1200x1200.png'
   }
 
   return (
