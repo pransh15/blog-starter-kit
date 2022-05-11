@@ -1,10 +1,12 @@
 ---
 type: posts
-title: Posts
+title: Vercel Assignment
 date: 2022-05-09
 ---
 
-This is my take home assignment for a position at **Vercel** and I've chosen the Blog Starter Kit to ensure accessibility and make the content readable. This also helps me to write the content on MDX, so it's an easier solution for everyone involved. 😄
+### This is my take home assignment for a position at **Vercel**
+
+I've chosen the Blog Starter Kit to ensure accessibility and make the content readable. This also helps me to write the content on MDX, so it's an easier solution for everyone involved. 😄
 
 Thank you for your interest in Vercel! We would appreciate approximately one hour of your time to complete a short familiarisation exercise. Before you start, you'll need a GitHub (recommended), GitLab or Bitbucket account. 
 
@@ -12,10 +14,13 @@ Thank you for your interest in Vercel! We would appreciate approximately one hou
 
 ✅  Create a project on Vercel. You can use our get started guide, documentation and templates for help and inspiration.
 
-✅  Complete the following tasks. Add the responses directly to your Vercel project – please do not create a separate document.**
+✅  Complete the following tasks. Add the responses directly to your Vercel project – please do not create a separate document.
+
 _Create pages or sections on your project for each question. If you're unable to complete any task, don't worry! Go ahead and explain what information or knowledge may be missing_
 
 # Posts
+
+
 
 ✅  Make sure that you have re-deployed the project to reflect your latest changes and that the repository on GitHub, GitLab or Bitbucket is public.
 
