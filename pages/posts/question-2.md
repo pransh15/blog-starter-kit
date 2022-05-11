@@ -1,10 +1,12 @@
 ---
 title: Question 2
 date: 2022/05/09
-description: 2. What do you want to learn, or do more of, at work?
+description: What do you want to learn, or do more of, at work?
 tag: career
 author: You
 ---
+
+#### 2. What do you want to learn, or do more of, at work?
 
 I'd like to do more of the following:
     1. Code more at work, and do more around web development. Whether it's solving user problems, or creating solutions or usecases myself, I'd like to create a technical aspect to my day-to-day than it is right now.

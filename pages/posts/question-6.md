@@ -6,7 +6,9 @@ tag: career
 author: You
 ---
 
-##### TL;DR Community means everthing to me!
+#### 6. What does Community mean to you?
+
+###### TL;DR Community means everthing to me!
 
 My journey started as a Community member of a product I loved, and evangelizing for them started out of love, before anything else. The community mentioned is Mozilla's and being a Mozillian gave me a purpose, and a reason to advocate for a product that in my opinion, did the right thing. It also gave me an opportunity to see that not everything is perfect, and voice my opinion on what could be better. That volunteer community journey became a leadership one, as well as a technical one since my major us Electronics & Communications Engineering, and through an Open Source community, I learnt so much more about Web Development and Internet of Things than my college ever taught me.
 

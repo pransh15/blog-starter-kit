@@ -6,6 +6,8 @@ tag: career
 author: You
 ---
 
+#### 1. Which technical article, guide or lightning talk left the biggest positive impression on you? Why? Ideally, this article would not be associated with Vercel or web development, by the way! Please provide links.
+
 It's not a lightning talk, but this is one of my favorite talks. Dylan covers a lot of what I learned back in middle school with tools like LOGO, which adds a nostalgic attachment. Since this covers everything I love about code, it's not just logical; it's artistic at the same time.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6avJHaC3C2U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

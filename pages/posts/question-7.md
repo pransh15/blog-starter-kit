@@ -6,6 +6,8 @@ tag: career
 author: You
 ---
 
+#### 7. Would, or how would, you improve the response shared with a customer [here](https://github.com/vercel/community/discussions/310)?
+
 - I would go ahead and speak with the team and try and figure out a way to check file changes in the root directory. 
 - Check what the best way is to do this, since it's a monorepo with 3 projects. I reckon that a script should be okay since the required solution has a criteria for common directory changes.
 - I will try and replicate the solution for myself, and if it works, reply with the code.
