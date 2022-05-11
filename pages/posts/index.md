@@ -19,7 +19,10 @@ Thank you for your interest in Vercel! We would appreciate approximately one hou
 ---
 
 3. Complete the following tasks. Add the responses directly to your Vercel project – please do not create a separate document. ✅
+
 _Create pages or sections on your project for each question. If you're unable to complete any task, don't worry! Go ahead and explain what information or knowledge may be missing_
+
+Responses down below 👇
 
 ---
 
