@@ -12,19 +12,28 @@ Thank you for your interest in Vercel! We would appreciate approximately one hou
 
 ✅  If you haven't already, create a Hobby tier (free) account on Vercel. You can sign up to Vercel by using your GitHub, GitLab or BitBucket account.
 
+---
+
 ✅  Create a project on Vercel. You can use our get started guide, documentation and templates for help and inspiration.
 
-✅  Complete the following tasks. Add the responses directly to your Vercel project – please do not create a separate document.
+---
 
+✅  Complete the following tasks. Add the responses directly to your Vercel project – please do not create a separate document.
 _Create pages or sections on your project for each question. If you're unable to complete any task, don't worry! Go ahead and explain what information or knowledge may be missing_
+
+---
 
 # Posts
 
-
+---
 
 ✅  Make sure that you have re-deployed the project to reflect your latest changes and that the repository on GitHub, GitLab or Bitbucket is public.
 
+---
+
 ✅  Respond to our original email with a link to both your deploy & repository and congratulate yourself on a job well done!
+
+---
 
 _If you're seeing this, I've already sent you an email. So,_
 <iframe src="https://giphy.com/embed/mn1cym1jiJOUg" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/reactiongifs-mn1cym1jiJOUg"></a></p>
