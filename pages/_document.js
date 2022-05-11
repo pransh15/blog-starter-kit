@@ -3,8 +3,8 @@ import { Html, Head, Main, NextScript } from 'next/document'
 export default function Document() {
   const meta = {
     title: 'Pranshu Khanna',
-    description: 'Community Management & Developer Relations Professional.',
-    image: '/images/pransh-og-1200x1200.png'
+    description: 'Website metas are so meta.',
+    image: '/public/images/pransh-og-1200x1200.png'
   }
 
   return (
