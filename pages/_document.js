@@ -4,7 +4,7 @@ export default function Document() {
   const meta = {
     title: 'Pranshu Khanna',
     description: 'Website metas are so meta.',
-    image: 'https://github.com/pransh15/blog-starter-kit/blob/main/public/images/pransh-og-image-min.png'
+    image: 'public/images/pransh-og-image-min.png'
   }
 
   return (
@@ -16,8 +16,9 @@ export default function Document() {
         <meta property="og:description" content={meta.description} />
         <meta property="og:title" content={meta.title} />
         <meta property="og:image" content={meta.image} />
+        <meta property="og:url" content="https://pran.sh/" />
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:site" content="@yourname" />
+        <meta name="twitter:site" content="@inmypranshoes" />
         <meta name="twitter:title" content={meta.title} />
         <meta name="twitter:description" content={meta.description} />
         <meta name="twitter:image" content={meta.image} />
