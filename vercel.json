@@ -1,8 +1,8 @@
 {
     "redirects": [
     { 
-        "source": "/hello-vercel",
-        "destination": "https://vercel.com/", 
+        "source": "/graphcms",
+        "destination": "https://graphcms.com/", 
         "permanent": false
     }
     ]
