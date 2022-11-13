@@ -5,12 +5,14 @@ import '../styles/main.css'
 
 import { annotate, annotationGroup } from 'rough-notation';
 
-const a1 = annotate(document.querySelector('#e1'), { type: 'underline' });
-const a2 = annotate(document.querySelector('#e3'), { type: 'box' });
-const a3 = annotate(document.querySelector('#e3'), { type: 'circle' });
-
-const ag = annotationGroup([a3, a1, a2]);
-ag.show();
+if(typeof document !== "undefined"){
+  const a1 = annotate(document.querySelector('#e1'), { type: 'underline' });
+  const a2 = annotate(document.querySelector('#e3'), { type: 'box' });
+  const a3 = annotate(document.querySelector('#e3'), { type: 'circle' });
+  
+  const ag = annotationGroup([a3, a1, a2]);
+  ag.show();
+}
 
 export default function Nextra({ Component, pageProps }) {
   return (
