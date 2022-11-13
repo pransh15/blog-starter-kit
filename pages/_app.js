@@ -1,20 +1,35 @@
+import dynamic from 'next/dynamic'
 import 'nextra-theme-blog/style.css'
 import Head from 'next/head'
 
 import '../styles/main.css'
-
-import { annotate, annotationGroup } from 'rough-notation';
-
-if(typeof document !== "undefined"){
-  const a1 = annotate(document.querySelector('#e1'), { type: 'underline' });
-  const a2 = annotate(document.querySelector('#e3'), { type: 'box' });
-  const a3 = annotate(document.querySelector('#e3'), { type: 'circle' });
-  
-  const ag = annotationGroup([a3, a1, a2]);
-  ag.show();
-}
+import { useEffect } from 'react'
 
 export default function Nextra({ Component, pageProps }) {
+  useEffect(() => {
+    const annotateThings = async () => {
+      const { annotate, annotationGroup } = await import('rough-notation')
+
+      const annotationGroupArgs = []
+      const underlineElems = document.querySelector('#e1')
+      const boxElems = document.querySelector('#e2')
+      const circleElems = document.querySelector('#e3')
+
+      if (underlineElems)
+        annotationGroupArgs.push(
+          annotate(underlineElems, { type: 'underline' })
+        )
+      if (boxElems) annotate(boxElems, { type: 'box' })
+      if (circleElems) annotate(circleElems, { type: 'circle' })
+
+      const ag = annotationGroup(annotationGroupArgs)
+      ag.show()
+      console.log("hello")
+    }
+
+    annotateThings()
+  })
+
   return (
     <>
       <Head>
