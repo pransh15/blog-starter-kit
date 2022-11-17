@@ -1,7 +1,7 @@
 ---
 type: posts
 title: Blog
-date: 2022-05-09
+date: 2022-09-14
 ---
 
 ### My blog will live here, soon. 😉

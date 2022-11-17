@@ -1,8 +1,8 @@
 {
     "redirects": [
     { 
-        "source": "/graphcms",
-        "destination": "https://graphcms.com/", 
+        "source": "/unleash",
+        "destination": "https://getunleash.io/", 
         "permanent": false
     }
     ]
